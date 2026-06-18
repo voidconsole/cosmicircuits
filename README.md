@@ -1,3 +1,11 @@
+- [Website](https://voidconsole.github.io/cosmicircuits/)
+- [Photo Album
+](https://drive.google.com/drive/folders/1cdhb6elpV3I-I0mOvjjJ2ua4wUDujFYk) & [Photo Album
+](https://photos.google.com/share/AF1QipPM_TIRGbgeP4AoX7CWWqOQDfK9e1q1QXfveSFn1HhPjoEqgky43eJ4p-nQ5XJcRA?key=YzNFb29OTDI5WTV4Y3VpbWxVLVdIZ1FuVUstTjFR)
+- [Figma Slides & Stickers](https://www.figma.com/design/Nn0oWBPKXucjIQxy5jmnnk/Untitled?node-id=0-1&t=VlWliIc0hLSBumbH-1)
+- Projects Made - [,,,,]
+- Communication Server - [Wormhole](https://github.com/voidconsole/wormhole)
+
 It's 3am.
 
 I still didn't prepare for my speech tomorrow.
@@ -92,6 +100,8 @@ Laya, who designed the custom PCB souvenirs we handed out, travelled across the 
 Ryaan, who taught workshops, mentored participants, and somehow survived the chaos.
 Shreyash and Ryaan, who handled logistics, food, banners, and the countless invisible tasks that somehow determine whether an event succeeds or fails.
 Every one of them spent months helping turn an idea into something real.
+
+
 
 And judging by the smiles, projects, conversations, and the fact that nobody wanted to leave,
 I'd say it was worth it.
